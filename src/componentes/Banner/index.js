@@ -1,9 +1,13 @@
 import './Banner.css'
 
 const Banner = () => {
-    <div>
+    <section className='container-header'>
+        <div className='container-barra-beneficios'>
 
-    </div>
+        </div>
+
+
+    </section>
 }
 
 export default Banner
